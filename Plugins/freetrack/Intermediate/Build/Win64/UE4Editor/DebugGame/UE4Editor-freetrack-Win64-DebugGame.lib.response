@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-freetrack-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+"E:\unrealProjects\SixDOF_folder\SixDOF\Plugins\freetrack\Intermediate\Build\Win64\UE4Editor\DebugGame\freetrack\Module.freetrack.cpp.obj"
+"E:\unrealProjects\SixDOF_folder\SixDOF\Plugins\freetrack\Intermediate\Build\Win64\UE4Editor\DebugGame\freetrack\freetrack.generated.cpp.obj"
+"E:\Program Files\Epic Games\4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\freetrack\PCLaunch.rc.res"
+"E:\Program Files\Epic Games\4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"E:\unrealProjects\SixDOF_folder\SixDOF\Plugins\freetrack\Intermediate\Build\Win64\UE4Editor\DebugGame\UE4Editor-freetrack-Win64-DebugGame.lib"

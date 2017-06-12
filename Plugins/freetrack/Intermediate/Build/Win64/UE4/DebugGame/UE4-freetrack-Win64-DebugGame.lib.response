@@ -1,0 +1,7 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+"E:\unrealProjects\SixDOF_folder\SixDOF\Plugins\freetrack\Intermediate\Build\Win64\UE4\DebugGame\freetrack\Module.freetrack.cpp.obj"
+"E:\unrealProjects\SixDOF_folder\SixDOF\Plugins\freetrack\Intermediate\Build\Win64\UE4\DebugGame\freetrack\freetrack.generated.cpp.obj"
+/OUT:"E:\unrealProjects\SixDOF_folder\SixDOF\Plugins\freetrack\Binaries\Win64\UE4-freetrack-Win64-DebugGame.lib"
